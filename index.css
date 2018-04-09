@@ -1,0 +1,25 @@
+.con {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.horizontal-center{
+  justify-content: center;
+}
+
+.item{
+  padding: 4px;
+}
+
+.padding-left-50{
+
+  padding-left: 50px;
+}
+
+.margin-10{
+  margin: 10px;
+}
+
+.center{
+  text-align: center;
+}
